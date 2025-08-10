@@ -8,8 +8,8 @@ import ProductDetails from './component/product-details/ProductDetails';
 function App() {
   return (
     <>
-      {/* <Home /> */}
-      <ProductDetails />
+      <Home />
+      {/* <ProductDetails /> */}
       {/* <BlockStack gap={300}>
         <TableWrapper />
       </BlockStack> */}
